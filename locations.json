@@ -1,18 +1,59 @@
 {
-    "Ahafo": [],
+    "Ahafo": {
+        "Asunafo North":{},
+        "Asunafo South":{},
+        "Asutifi North":{},
+        "Asutifi South":{},
+        "Tano North":{},
+        "Tano South":{}
+    },
     "Ashanti": [],
     "Bono": [],
     "Bono East": [],
     "Central": [],
     "Eastern": [],
     "Greater Accra": [],
-    "Nort East": [],
+    "Nort East": {
+        "Bunkpurugu":{},
+        "Chereponi":{},
+        "Nalerigu Gambaga":{},
+        "Walewale":{},
+        "Yagaba-Kubori(Walewale West)":{},
+        "Yunyoo":{}
+    },
     "Northern": [],
-    "Oti": [],
-    "Savannah": [],
+    "Oti": {
+        "Akan":{},
+        "Biakoye":{},
+        "Buem":{},
+        "Krachi East":{},
+        "Krachi Nchumuru":{},
+        "Krachi West":{},
+        "Nkwanta North":{},
+        "Nkwanta South":{}
+    },
+    "Savannah": {
+        "Bole Bamboi":{},
+        "Daboya-Mankarigu":{},
+        "Damango":{},
+        "Salaga North":{},
+        "Salaga South":{},
+        "Sawla-Tuna-Kalba":{},
+        "Yapei-Kusawgu":{}
+    },
     "Upper East": [],
     "Upper West": [],
     "Volta": [],
     "Western": [],
-    "Western North": []
+    "Western North": {
+        "Aowin":{},
+        "Bia East":{},
+        "Bia West":{},
+        "Bibiani-Anhwiaso-Bekwai":{},
+        "Bodi":{},
+        "Juabeso":{},
+        "Sefwi-Akontombra":{},
+        "Sefwi-Wiawso":{},
+        "Suaman":{}
+    }
 }
