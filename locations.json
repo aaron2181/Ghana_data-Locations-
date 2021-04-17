@@ -1,315 +1,1409 @@
 {
     "Ahafo": {
-        "Asunafo North":{},
-        "Asunafo South":{},
-        "Asutifi North":{},
-        "Asutifi South":{},
-        "Tano North":{},
-        "Tano South":{}
+        "Asunafo North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Asunafo South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Asutifi North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Asutifi South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Tano North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Tano South": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     },
     "Ashanti": {
-        "Adansi-Akrofuom":{},
-        "Adansi-Asokwa":{},
-        "Afigya Kwabre North":{},
-        "Afigya Kwabre South":{},
-        "Afigya Sekyere East":{},
-        "Ahafo Ano North":{},
-        "Ahafo Ano South East":{},
-        "Ahafo Ano South West":{},
-        "Asante-Akim Central":{},
-        "Asante-Akim North":{},
-        "Asante-Akim South":{},
-        "Asawase":{},
-        "Asokwa":{},
-        "Atwima-Kwanwoma":{},
-        "Atwima-Mponua":{},
-        "Atwima-Nwabiagya North":{},
-        "Atwima-Nwabiagya South":{},
-        "Bantama":{},
-        "Bekwai":{},
-        "Bosome-Freho":{},
-        "Bosomtwe":{},
-        "Effiduase-Asokore":{},
-        "Ejisu":{},
-        "Ejura-Sekyedumase":{},
-        "Fomena":{},
-        "Juaben":{},
-        "Kumawu":{},
-        "Kwabre East":{},
-        "Kwadaso":{},
-        "Mampong":{},
-        "Manhyia North":{},
-        "Manhyia South":{},
-        "Manso Edubia":{},
-        "Manso Nkwanta":{},
-        "New Edubease":{},
-        "Nhyiaeso":{},
-        "Nsuta-Kwamang-Beposo":{},
-        "Obuasi East":{},
-        "Obuasi West":{},
-        "Odotobri":{},
-        "Offinso North":{},
-        "Offinso South":{},
-        "Oforikrom":{},
-        "Old Tafo":{},
-        "Sekyere Afram Plains":{},
-        "Suame":{},
-        "Subin":{}
-        
-
+        "Adansi-Akrofuom": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Adansi-Asokwa": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Afigya Kwabre North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Afigya Kwabre South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Afigya Sekyere East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ahafo Ano North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ahafo Ano South East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ahafo Ano South West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Asante-Akim Central": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Asante-Akim North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Asante-Akim South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Asawase": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Asokwa": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Atwima-Kwanwoma": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Atwima-Mponua": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Atwima-Nwabiagya North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Atwima-Nwabiagya South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Bantama": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Bekwai": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Bosome-Freho": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Bosomtwe": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Effiduase-Asokore": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ejisu": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ejura-Sekyedumase": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Fomena": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Juaben": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Kumawu": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Kwabre East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Kwadaso": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Mampong": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Manhyia North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Manhyia South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Manso Edubia": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Manso Nkwanta": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "New Edubease": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Nhyiaeso": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Nsuta-Kwamang-Beposo": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Obuasi East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Obuasi West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Odotobri": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Offinso North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Offinso South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Oforikrom": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Old Tafo": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Sekyere Afram Plains": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Suame": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Subin": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     },
     "Bono": {
-        "Banda":{},
-        "Berekum East":{},
-        "Berekum West":{},
-        "Dormaa Central":{},
-        "Dormaa East":{},
-        "Dormaa West":{},
-        "Jaman North":{},
-        "Jaman South":{},
-        "Sunyani East":{},
-        "Sunyani West":{},
-        "Tain":{},
-        "Wenchi":{}
+        "Banda": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Berekum East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Berekum West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Dormaa Central": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Dormaa East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Dormaa West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Jaman North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Jaman South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Sunyani East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Sunyani West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Tain": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Wenchi": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     },
     "Bono East": {
-        "Atebubu-Amantin":{},
-        "Kintampo North":{},
-        "Kintampo South":{},
-        "Nkoranza North":{},
-        "Nkoranza South":{},
-        "Pru East":{},
-        "Pru West":{},
-        "Sene East":{},
-        "Sene West":{},
-        "Techiman North":{},
-        "Techiman South":{}
+        "Atebubu-Amantin": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Kintampo North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Kintampo South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Nkoranza North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Nkoranza South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Pru East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Pru West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Sene East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Sene West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Techiman North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Techiman South": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     },
     "Central": {
-        "Abura-Asebu-Kwamankese":{},
-        "Agona East":{},
-        "Agona West":{},
-        "Ajumako-Enyan-Essiam":{},
-        "Asikuma-Odoben-Brakwa":{},
-        "Assin Central":{},
-        "Assin North":{},
-        "Assin South":{},
-        "Awutu-Senya East":{},
-        "Awutu-Senya West":{},
-        "Cape Coast North":{},
-        "Cape Coast South":{},
-        "Effutu":{},
-        "Ekumfi":{},
-        "Gomoa Central":{},
-        "Gomoa East":{},
-        "Gomoa West":{},
-        "Hemang Lower Denkyira":{},
-        "Komenda-Edina-Eguafo-Abirem":{},
-        "Mfantseman":{},
-        "Twifo-Atii Morkwaa":{},
-        "Upper Denkyira East":{},
-        "Upper Denkyira West":{}
-
-
+        "Abura-Asebu-Kwamankese": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Agona East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Agona West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ajumako-Enyan-Essiam": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Asikuma-Odoben-Brakwa": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Assin Central": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Assin North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Assin South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Awutu-Senya East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Awutu-Senya West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Cape Coast North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Cape Coast South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Effutu": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ekumfi": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Gomoa Central": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Gomoa East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Gomoa West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Hemang Lower Denkyira": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Komenda-Edina-Eguafo-Abirem": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Mfantseman": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Twifo-Atii Morkwaa": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Upper Denkyira East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Upper Denkyira West": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     },
     "Eastern": {
-        "Abetifi":{},
-        "Abirem":{},
-        "Abuakwa North":{},
-        "Abuakwa South":{},
-        "Achiase":{},
-        "Afram Plains North":{},
-        "Afram Plains South":{},
-        "Akim Oda":{},
-        "Akim Swedru":{},
-        "Akropong":{},
-        "Akwapim South":{},
-        "Akwatia":{},
-        "Asene-Akroso-Manso":{},
-        "Asuogyaman":{},
-        "Atiwa East":{},
-        "Atiwa West":{},
-        "Ayensuano":{},
-        "Fanteakwa North":{},
-        "Fanteakwa South":{},
-        "Kade":{},
-        "Lower Manya Krobo":{},
-        "Lower West Akim":{},
-        "Mpraeso":{},
-        "New Juaben North":{},
-        "New Juaben South":{},
-        "Nkawkaw":{},
-        "Nsawam Adoagyiri":{},
-        "Ofoase-Ayirebi":{},
-        "Okere":{},
-        "Suhum":{},
-        "Upper Manya Krobo":{},
-        "Upper West Akim":{},
-        "Yilo Krobo":{}
-        
+        "Abetifi": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Abirem": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Abuakwa North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Abuakwa South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Achiase": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Afram Plains North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Afram Plains South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Akim Oda": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Akim Swedru": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Akropong": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Akwapim South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Akwatia": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Asene-Akroso-Manso": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Asuogyaman": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Atiwa East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Atiwa West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ayensuano": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Fanteakwa North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Fanteakwa South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Kade": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Lower Manya Krobo": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Lower West Akim": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Mpraeso": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "New Juaben North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "New Juaben South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Nkawkaw": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Nsawam Adoagyiri": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ofoase-Ayirebi": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Okere": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Suhum": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Upper Manya Krobo": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Upper West Akim": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Yilo Krobo": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     },
     "Greater Accra": {
-        "Ablekuma Central":{},
-        "Ablekuma North":{},
-        "Ablekuma South":{},
-        "Ablekuma West":{},
-        "Ada":{},
-        "Adenta":{},
-        "Amasaman":{},
-        "Anyaa-Sowutuom":{},
-        "Ashaiman":{},
-        "Ayawaso Central":{},
-        "Ayawaso East":{},
-        "Ayawaso North":{},
-        "Ayawaso West Wuogon":{},
-        "Bortianor-Ngleshie-Amanfro":{},
-        "Dade Kotopon":{},
-        "Dome Kwabenya":{},
-        "Domeabra-Obom":{},
-        "Korle Klottey":{},
-        "Kpone-Katamanso":{},
-        "Krowor":{},
-        "Ledzokuku":{},
-        "Madina":{},
-        "Ningo-Prampram":{},
-        "Odododiodio":{},
-        "Okaikwei Central":{},
-        "Okaikwei North":{},
-        "Okaikwei South":{},
-        "Sege":{},
-        "Shai-Osudoku":{},
-        "Tema Central":{},
-        "Tema East":{},
-        "Tema West":{},
-        "Trobu":{},
-        "Weija Gbawe":{}
+        "Ablekuma Central": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ablekuma North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ablekuma South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ablekuma West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ada": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Adenta": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Amasaman": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Anyaa-Sowutuom": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ashaiman": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ayawaso Central": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ayawaso East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ayawaso North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ayawaso West Wuogon": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Bortianor-Ngleshie-Amanfro": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Dade Kotopon": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Dome Kwabenya": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Domeabra-Obom": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Korle Klottey": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Kpone-Katamanso": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Krowor": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ledzokuku": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Madina": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ningo-Prampram": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Odododiodio": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Okaikwei Central": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Okaikwei North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Okaikwei South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Sege": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Shai-Osudoku": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Tema Central": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Tema East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Tema West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Trobu": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Weija Gbawe": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     },
     "Nort East": {
-        "Bunkpurugu":{},
-        "Chereponi":{},
-        "Nalerigu Gambaga":{},
-        "Walewale":{},
-        "Yagaba-Kubori(Walewale West)":{},
-        "Yunyoo":{}
+        "Bunkpurugu": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Chereponi": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Nalerigu Gambaga": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Walewale": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Yagaba-Kubori(Walewale West)": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Yunyoo": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     },
     "Northern": {
-        "Bimbilla":{},
-        "Gushiegu":{},
-        "Karaga":{},
-        "Kpandai":{},
-        "Kumbungu":{},
-        "Mion":{},
-        "Nanton":{},
-        "Saboba":{},
-        "Sagnarigu":{},
-        "Savelugu":{},
-        "Tamale Central":{},
-        "Tamale Noryh":{},
-        "Tamale South":{},
-        "Tatale-Sanguli":{},
-        "Tolon":{},
-        "Wulensi":{},
-        "Yendi":{},
-        "Zabzugu":{}
+        "Bimbilla": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Gushiegu": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Karaga": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Kpandai": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Kumbungu": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Mion": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Nanton": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Saboba": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Sagnarigu": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Savelugu": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Tamale Central": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Tamale Noryh": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Tamale South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Tatale-Sanguli": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Tolon": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Wulensi": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Yendi": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Zabzugu": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     },
     "Oti": {
-        "Akan":{},
-        "Biakoye":{},
-        "Buem":{},
-        "Krachi East":{},
-        "Krachi Nchumuru":{},
-        "Krachi West":{},
-        "Nkwanta North":{},
-        "Nkwanta South":{}
+        "Akan": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Biakoye": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Buem": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Krachi East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Krachi Nchumuru": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Krachi West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Nkwanta North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Nkwanta South": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     },
     "Savannah": {
-        "Bole Bamboi":{},
-        "Daboya-Mankarigu":{},
-        "Damango":{},
-        "Salaga North":{},
-        "Salaga South":{},
-        "Sawla-Tuna-Kalba":{},
-        "Yapei-Kusawgu":{}
+        "Bole Bamboi": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Daboya-Mankarigu": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Damango": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Salaga North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Salaga South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Sawla-Tuna-Kalba": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Yapei-Kusawgu": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     },
     "Upper East": {
-        "Bawku Central":{},
-        "Binduri":{},
-        "Bolgatanga Central":{},
-        "Bolgatanga East":{},
-        "Bongo":{},
-        "Builsa North":{},
-        "Builsa South":{},
-        "Sissala West":{},
-        "Chiana-Paga":{},
-        "Garu":{},
-        "Navrongo Central":{},
-        "Pusiga":{},
-        "Talensi":{},
-        "Tempane":{},
-        "Zebilla":{}
+        "Bawku Central": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Binduri": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Bolgatanga Central": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Bolgatanga East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Bongo": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Builsa North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Builsa South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Chiana-Paga": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Garu": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Navrongo Central": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Pusiga": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Sissala West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Talensi": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Tempane": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Zebilla": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     },
     "Upper West": {
-        "Daffiama, Bussie, Issa":{},
-        "Jirapa":{},
-        "Lambussie":{},
-        "Lawra":{},
-        "Nadowli West":{},
-        "Nandom":{},
-        "Sissala East":{},
-        "Sissala West":{},
-        "Wa Central":{},
-        "Wa East":{},
-        "Wa West":{}
+        "Daffiama, Bussie, Issa": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Jirapa": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Lambussie": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Lawra": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Nadowli West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Nandom": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Sissala East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Sissala West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Wa Central": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Wa East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Wa West": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     },
     "Volta": {
-        "Adaklu":{},
-        "Afadjato South":{},
-        "Agotime-Ziope":{},
-        "Akatsi NorthAkatsi South":{},
-        "Akatsi South":{},
-        "Anlo":{},
-        "Central Tongu":{},
-        "Ho Central":{},
-        "Ho West":{},
-        "Hohoe South":{},
-        "Keta":{},
-        "Ketu North":{},
-        "Ketu South":{},
-        "Kpando":{},
-        "North Dayi":{},
-        "North Tongu":{},
-        "South Dayi":{},
-        "South Tongu":{}
+        "Adaklu": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Afadjato South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Agotime-Ziope": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Akatsi NorthAkatsi South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Akatsi South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Anlo": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Central Tongu": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ho Central": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ho West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Hohoe South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Keta": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ketu North": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ketu South": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Kpando": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "North Dayi": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "North Tongu": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "South Dayi": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "South Tongu": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     },
     "Western": {
-        "Ahanta West":{},
-        "Amenfi Central":{},
-        "Amenfi East":{},
-        "Amenfi West":{},
-        "Effia":{},
-        "Ellembelle":{},
-        "Essikado-Ketan":{},
-        "Evalue-Ajomoro-Gwira":{},
-        "Jomoro":{},
-        "Kwesimintsim":{},
-        "Mpohor":{},
-        "Sekondi":{},
-        "Prestea-Huni Valley":{},
-        "Shama":{},
-        "Takoradi":{},
-        "Tarkwa-Nsuaem":{},
-        "Wassa East":{}
-        
+        "Ahanta West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Amenfi Central": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Amenfi East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Amenfi West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Effia": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Ellembelle": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Essikado-Ketan": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Evalue-Ajomoro-Gwira": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Jomoro": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Kwesimintsim": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Mpohor": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Prestea-Huni Valley": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Sekondi": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Shama": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Takoradi": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Tarkwa-Nsuaem": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Wassa East": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     },
     "Western North": {
-        "Aowin":{},
-        "Bia East":{},
-        "Bia West":{},
-        "Bibiani-Anhwiaso-Bekwai":{},
-        "Bodi":{},
-        "Juabeso":{},
-        "Sefwi-Akontombra":{},
-        "Sefwi-Wiawso":{},
-        "Suaman":{}
+        "Aowin": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Bia East": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Bia West": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Bibiani-Anhwiaso-Bekwai": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Bodi": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Juabeso": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Sefwi-Akontombra": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Sefwi-Wiawso": [
+            {
+                "Member of Parliament": ""
+            }
+        ],
+        "Suaman": [
+            {
+                "Member of Parliament": ""
+            }
+        ]
     }
 }
